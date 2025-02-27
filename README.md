@@ -83,5 +83,3 @@ For any queries, reach out to:
 🔗 GitHub: SahirC22
 ---
 
-# **2. `LICENSE` (MIT License)**  
-```txt
