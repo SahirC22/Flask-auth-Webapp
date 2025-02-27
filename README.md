@@ -34,8 +34,8 @@ A **secure user authentication system** built using Flask, SQLite, and Bootstrap
 ## 🎯 Installation & Setup  
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/flask-auth-system.git
-   cd flask-auth-system
+   git clone https://github.com/SahirC22/flask-auth-Webapp.git
+   cd flask-auth-Webapp
 
 2. **Create a virtual environment**
    
